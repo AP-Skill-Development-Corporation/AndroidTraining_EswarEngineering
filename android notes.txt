@@ -1,0 +1,48 @@
+XML :  is a markup language xml is designed  to
+store  and transport data.
+xml tags are not predefined .you must defined your
+own tags.
+xml is platform independent and language independent.
+XML: Extensible mark up language.
+Java :  is a Object Oriented program and platform independent  
+and secure 
+Manifest File: File  contains information of your package,including
+components of the application, content providers etc.
+
+Gradle: is a buildSystem opensource which is used to  automate building,
+testing,deployment etc.
+Layout :  defines the  structure for userInterface in an Activity.
+Different types of Layouts are there 
+ -Linear Layout
+ - Relative Layout
+ - Constraint Layout
+ - Frame Layout
+ - Table Layout
+Linear Layout :  is a View Group that aligns all children in a single
+direction, Vertical or Horizontal
+ you  can specify the layout direction with  the
+android:orientation attribute 
+vertical - rows
+horizontal -coloums
+Relative Layout : is a Viewgroup that displays  childviews  in relative 
+positions.
+The position of each view can be specified as a relative to sibiling 
+elements.
+Constraint Layout :  which is allows you to  position and size wigets
+in a flexible way.
+Frame Layout : is designed to  block out an area on the screen to display
+a single item.
+Table Layout :  going to be arranged groups of views into rows and coloums
+
+
+
+
+
+
+
+
+
+
+
+
+
